@@ -1,7 +1,0 @@
-import java.util.Scanner;
-
-public class QuadraticEquationSolver{
-   public static void main(String[] args){
-      Sanner scanner = new
-    Scanner(System.in);
-
